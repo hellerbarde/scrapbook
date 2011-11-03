@@ -1,0 +1,26 @@
+SCRAPBOOK
+---------
+Scrapbook is a very small application designed to save small snippets 
+(or "scraps") of text in a chronological no-nonsense way. The interface is 
+designed to be as uncluttered as I wanted it. 
+
+HACKING
+-------
+The code is fairly straightforward in that there is barely any. 
+
+LICENSE
+-------
+Feel free to modify it in any way, shape or form you want. I licensed it under 
+a BSD-style License, so don't hold me responsible for your microwave exploding.
+
+See the file LICENSE for the full license text.
+
+SECURITY
+--------
+Because I wanted it to be absolutely minimal and straightforward, I did not 
+include any authentication in the code. It is meant to be secured by way of Web 
+Server authentication. I included a sample htaccess file, because I use apache.
+
+Good luck and have fun!
+
+Copyright 2011 Philip Stark. All rights reserved.

@@ -1,0 +1,15 @@
+#scrapbook
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files> 
+
+# password-protect the directory in which this htaccess rule resides
+AuthType basic
+AuthName "Password?"
+
+AuthUserFile /path/to/htpasswd
+AuthGroupFile /dev/null
+
+Require user alice bob eve

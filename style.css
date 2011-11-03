@@ -1,0 +1,74 @@
+/* ********************** */
+/* **  scrapbook       ** */
+/* **  Copyright 2011  ** */
+/* **  philip   stark  ** */
+/* **  CSS Stylesheet  ** */
+/* ********************** */
+
+/* General style information */
+body {
+	padding:     0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin:      0px;
+	background:  #333333;
+	font-size:   12px;
+	font-family: arial, helvetica, sans-serif;
+	color:       #cccccc;
+}
+
+a{
+	color: #eeeeee;
+}
+
+a:visited{
+	color: #888;
+}
+
+div.scrap_wrapper1{
+	font-weight:     normal;
+	background:      #4f4f4f;
+	color:           #cccccc;
+	font-size:       22px;
+	text-align:      left;
+	padding:         10px;
+	/*padding-right:   20px;*/
+}
+
+div.scrap_wrapper2{
+	font-weight:     normal;
+	background:      #444444;
+	color:           #cccccc;
+	font-size:       22px;
+	text-align:      left;
+	padding:         10px;
+}
+
+div.scrap_date{
+	font-size:       20px;
+	text-align:      right;
+	color:           #696969; 
+}
+
+div.scrap_content{
+	font-size:       20px;
+	text-align:      left;
+	color:           #cccccc; 
+}
+
+div.scrap_list_wrapper{
+	font-weight:     normal;
+	background:      #4f4f4f;
+	color:           #cccccc;
+	font-size:       22px;
+	text-align:      left;
+	margin-left:     auto;
+	margin-right:    auto;
+	padding-top:     20px;
+	padding-bottom:  20px;
+	width:           700px;
+}
+
+
+
+
